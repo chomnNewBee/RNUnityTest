@@ -1,2 +1,2 @@
-# RNUnityTest
-RNUnityTest
+# ReactNativeUnity
+ReactNativeUnity
